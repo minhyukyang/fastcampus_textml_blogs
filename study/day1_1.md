@@ -2,6 +2,7 @@
 
 # Day 1
 
+
 ## 1. Part of speech tagging, Tokenization, and Out of vocabulary problem ([원문보기](https://lovit.github.io/nlp/2018/04/01/pos_and_oov/))
 
 
